@@ -1,0 +1,12 @@
+O código com nome "Fundamentos de Estatística 1.ipynb" é sobre Estatística Descritiva Univariada e está divido nos seguintes tópicos:
+
+1. Usando o Google Colab;
+2. Tabela de Frequências para uma variável Qualitativa;
+3. Tabela de Frequências para uma variável Quantitativa
+4. Medidas de Posição, Dispersão e Forma
+5. Gráficos interativos usando Plotly
+
+Essa pasta possui os banco de dados utilizados no código identificados por:
+1. Dados1
+2. Dados2
+3. Dados3
